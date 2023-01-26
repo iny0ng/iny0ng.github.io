@@ -8,7 +8,7 @@ categories: study group pattern
 
 # 스터디 그룹을 위한 패턴 언어 - Sprit(정신) 편
 
-https://architecture101.blog/2011/10/12/studygroup-pattern-languages-sprit/
+<https://architecture101.blog/2011/10/12/studygroup-pattern-languages-sprit/>
 
 스터디 그룹을 잘 유지하기 위해 해야 할 가장 기본적인 생각 정리
 
@@ -71,7 +71,7 @@ https://architecture101.blog/2011/10/12/studygroup-pattern-languages-sprit/
 
 # 스터디 그룹을 위한 패턴 언어 – Atmosphere(분위기) 편
 
-https://architecture101.blog/2011/10/19/studygroup-pattern-languages-atmosphere/
+<https://architecture101.blog/2011/10/19/studygroup-pattern-languages-atmosphere/>
 
 집이나 직장의 일에 간섭받지 않는 제 3의 장소(분위기)가 있어야 함
 
@@ -108,6 +108,6 @@ https://architecture101.blog/2011/10/19/studygroup-pattern-languages-atmosphere/
 
 # 스터디 그룹을 위한 패턴 언어 – Role(역할)편
 
-https://architecture101.blog/2012/06/04/studygroup-pattern-languages-roles/
+<https://architecture101.blog/2012/06/04/studygroup-pattern-languages-roles/>
 
 
