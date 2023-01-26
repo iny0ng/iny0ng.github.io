@@ -107,6 +107,7 @@ https://architecture101.blog/2011/10/19/studygroup-pattern-languages-atmosphere/
 
 
 스터디 그룹을 위한 패턴 언어 – Role(역할)편
+
 https://architecture101.blog/2012/06/04/studygroup-pattern-languages-roles/
 
 
